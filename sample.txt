@@ -1,3 +1,4 @@
 [root@ip-172-31-40-224 devops-repo]# git rebase release
 Successfully rebased and updated refs/heads/develop.
 [root@ip-172-31-40-224 devops-repo]#
+hello hrn bro
